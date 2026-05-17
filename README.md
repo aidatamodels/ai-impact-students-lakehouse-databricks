@@ -52,3 +52,18 @@ Silver Delta Table
 Gold Analytical Tables
         ↓
 Machine Learning Predictions
+```
+
+## Licence
+
+Ce projet est distribué sous licence MIT.
+
+La licence MIT autorise l’utilisation, la modification, la distribution et la réutilisation du code, à condition de conserver l’avis de copyright et le texte de la licence.
+
+Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+Cette licence s’applique au code source du projet. Les données externes utilisées restent soumises aux conditions d’utilisation de leur source d’origine, notamment Kaggle.
+
+## Auteur
+
+Projet développé par `aidatamodels`.
